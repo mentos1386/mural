@@ -13,8 +13,6 @@ Vue.use(Vuex);
 
 // Dependencies CSS
 import 'bulma/css/bulma.css';
-// Dependencies Components
-
 
 import routes from './routes';
 

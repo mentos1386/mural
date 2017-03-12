@@ -9,6 +9,7 @@
         <router-link class="nav-item is-tab is-hidden-mobile" to="/favorites">Favorites
         </router-link>
         <router-link class="nav-item is-tab is-hidden-mobile" to="/settings">Settings</router-link>
+        <router-link class="nav-item is-tab is-hidden-mobile" to="/wallpapers">Wallpapers</router-link>
       </div>
       <span class="nav-toggle">
         <span></span>

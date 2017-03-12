@@ -8,11 +8,13 @@
     "bulma": "^0.3.2",
     "lodash": "^4.17.4",
     "reqwest": "^2.0.5",
+    "uuid": "^3.0.1",
     "vue": "^2.1.10",
     "vue-resource": "^1.2.1",
     "vue-router": "^2.3.0",
     "vuex": "^2.2.1"
   },
   "devDependencies": {},
-  "author": "Tine Jozelj <mentos1386@outlook.com>"
+  "author": "Tine Jozelj <mentos1386@tjo.space>",
+  "homepage": "https://blog.tjo.space"
 }

@@ -114,6 +114,6 @@
     "webpack-merge": "^2.4.0"
   },
   "dependencies": {
-    "vuejs-paginate": "^0.7.1"
+    "electron-json-storage": "^3.0.1"
   }
 }
